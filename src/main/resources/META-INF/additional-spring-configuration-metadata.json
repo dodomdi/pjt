@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'api.key'"
+  },
+  {
+    "name": "api.service.url",
+    "type": "java.lang.String",
+    "description": "A description for 'api.service.url'"
+  },
+  {
+    "name": "api.service.type",
+    "type": "java.lang.String",
+    "description": "A description for 'api.service.type'"
+  },
+  {
+    "name": "api.client.id",
+    "type": "java.lang.String",
+    "description": "A description for 'api.client.id'"
+  }
+]}
